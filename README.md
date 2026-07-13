@@ -7,6 +7,11 @@ It provides real-time weather updates, forecasts, and data management features u
 
 ---
 
+##  Project demo video
+[watch demo video]
+https://drive.google.com/file/d/1l3PsZVna22AOjhEqx2nEd475maA95jdV/view?usp=sharing
+
+
 ##  Features
 ### User Features
 - View real-time weather of any city  
